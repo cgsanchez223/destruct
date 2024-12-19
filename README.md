@@ -1,6 +1,4 @@
-Chapter 14.2 of the Software Engineering bootcamp at Stony Brook University.
-- These exercises highlight different uses between using:
-    - let 
-    - const
-    - var
-- In the course we learned that var is a bit outdated, or at least something that they did not want students to use going forward. let is used for variables that can change. const is used for variables that are meant to be locked in place, and cannot change.
+Chapter 14.6 of the Software Engineering bootcamp at Stony Brook University.
+- Unit was about destructuring information from objects.
+- We are given variables that act as objects and contain various other variabels inside.
+- We showcase various exercises where we extract the information found in objects.
